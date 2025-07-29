@@ -1,0 +1,7 @@
+{
+  "name": "Custom Below User Summary Stats Text",
+  "description": "Adds custom text to the below-user-summary-stats plugin outlet",
+  "version": "0.1",
+  "authors": "Your Name",
+  "license": "MIT"
+}
